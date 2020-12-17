@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="AccessControlTest" max_length="40" name="x_58872_needit_accesscontroltest" sizeclass="2" type="collection">
+        <element label="field1" max_length="40" name="field1" type="string"/>
+        <element label="field2" max_length="40" name="field2" type="string"/>
+        <element label="field3" max_length="40" name="field3" type="string"/>
+        <element label="field4" max_length="40" name="field4" type="string"/>
+        <element label="field5" max_length="40" name="field5" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
